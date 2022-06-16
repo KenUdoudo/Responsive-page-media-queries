@@ -87,7 +87,7 @@ button {
 }
 .terms {
   color: gainsboro;
-  padding: 20px;
+  padding: 0 20px;
   font-family: "Poppins";
   font-size: 16px;
 }
@@ -110,5 +110,11 @@ font-weight: 100;
   }
   .section1 {
     margin: 70px 20px 50px 20px;
+  }
+  .link1{
+    padding: 0 25px;
+  }
+  .container{
+    padding: 24px 0;
   }
 }
